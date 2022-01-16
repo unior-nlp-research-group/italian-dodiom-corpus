@@ -1,1 +1,1 @@
-# dodiom-corpus
+# Italian Dodiom Corpus
