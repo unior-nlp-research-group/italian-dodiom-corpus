@@ -1,0 +1,576 @@
+index	idiom	submission	category	1.Wrong Category	2.Undecidable	3.Low Context	4.Vulgar	5.Incorrect Grammar/   Word Order	6.Incorrect Spelling	7.Meaningless	8.Negative Sentiment	9.Restricted Readers	10.Not-Idiomatic & Not-Literal	11.Quality	12.Notes
+2	aprire gli occhi	A Natale il primo pensiero di mia figlia, appena apre gli occhi, è vedere che le ha portato Babbo Natale	idiom	1	0	0	0	0	0	0	0	0	0	1	
+11	aprire gli occhi	Appena ho aperto gli occhi, ho capito che sarebbe stata una giornataccia.	nonidiom	0	0	0	0	0	0	0	0	0	1	1	
+14	aprire gli occhi	Apri gli occhi con quel ragazzo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+15	aprire gli occhi	Apri gli occhi con quel ragazzo, mi sembra poco affidabile	idiom	0	0	0	0	0	0	0	0	0	0	0	5
+19	aprire gli occhi	Apri gli occhi ed esprimi un desiderio	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+21	aprire gli occhi	Apri gli occhi li fuori	idiom	1	0	1	0	0	0	0	0	0	0	0	
+40	aprire gli occhi	Apri gli occhi, maledizione!	idiom	0	0	0	0	0	0	0	0	0	0	0	5
+49	aprire gli occhi	Apri gli occhi, questa situazione non mi convince	idiom	0	0	0	0	0	0	0	0	0	0	2	
+51	aprire gli occhi	Apri gli occhi, sta cercando di truffarti	idiom	0	0	0	0	0	0	0	0	0	0	2	
+52	aprire gli occhi	Apri gli occhi, ti fregherà tutti i soldi che hai!	idiom	0	0	0	0	0	0	0	0	0	0	0	11
+72	aprire gli occhi	Aprire sempre gli occhi fa di te un uomo previdente	idiom	0	0	1	0	0	0	0	0	0	0	0	
+86	aprire gli occhi	Devi aprire sempre gli occhi quando non conosci chi ti sta intorno	idiom	0	0	0	0	0	0	0	0	0	0	1	
+92	aprire gli occhi	Dovresti aprire gli occhi	idiom	0	0	1	0	0	0	0	0	0	0	0	
+99	aprire gli occhi	Faresti bene ad aprire gli occhi	idiom	0	0	0	0	0	0	0	0	0	0	1	
+102	aprire gli occhi	Finalmente ha aperto gli occhi su Giovanna.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+109	aprire gli occhi	Gli occhi son stati aperti al popolo	idiom	0	0	1	0	1	0	0	0	0	0	0	
+127	aprire gli occhi	Ho un'infezione e non riesco ad aprire gli occhi	idiom	1	0	0	0	0	0	0	0	0	0	0	
+134	aprire gli occhi	Il medico disse: le chiedo di aprire e chiudere velocemente gli occhi	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+143	aprire gli occhi	L'ansia mi assale da quando apro gli occhi la mattina	idiom	0	0	0	0	0	1	0	0	0	0	0	
+156	aprire gli occhi	Marta durante l'esame dovrebbe aprire gli occhi, la sua compagna di banco copia tutto da lei	idiom	1	0	0	0	0	0	0	0	0	0	0	
+157	aprire gli occhi	Mi raccomando, apri gli occhi.	idiom	0	0	1	0	0	0	0	0	0	0	0	
+169	aprire gli occhi	Non aprire gli occhi, non è ancora il momento	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+171	aprire gli occhi	Non aprire gli occhi, è una sorpresa	nonidiom	0	0	0	0	0	0	0	0	0	0		24
+175	aprire gli occhi	Non far aprire a Giovanni gli occhi altrimenti la sorpresa è rovinata	nonidiom	0	0	0	0	0	0	0	0	0	0	0	24
+195	aprire gli occhi	Non è facile per una professoressa, in una classe di trenta persone, aprire gli occhi durante un compito in classe	idiom	1	0	0	0	0	0	0	0	0	0	0	
+196	aprire gli occhi	Nonostante quel che é successo, non vuole aprire gli occhi	idiom	0	0	0	0	0	0	0	0	0	0	2	
+211	aprire gli occhi	Quando aperto gli occhi mi sono tranquillizzato perchè era solo un sogno	idiom	0	0	0	0	1	0	0	0	0	0	0	
+224	aprire gli occhi	Quando va sott'acqua apre gli occhi, per questo sono irritati	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+227	aprire gli occhi	Quanto si è accecati dall'amore è difficile aprire gli occhi	idiom	0	0	0	0	0	0	0	0	0	0	1	
+235	aprire gli occhi	Riesce ad aprire gli occhi quando va sott'acqua	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+237	aprire gli occhi	Se non apri gli occhi andrai a sbattere contro il palo	nonidiom	0	0	1	0	0	0	0	0	0	0	0	
+245	aprire gli occhi	Se non apri gli occhi, troveranno sempre il modo di manipolarti	idiom	0	0	0	0	0	0	0	0	0	0	1	
+254	aprire gli occhi	Sono andata dall'oculista perché non riesco ad aprire gli occhi	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+260	aprire gli occhi	Stanotte ho aperto gli occhi alle due e non sono riuscito a prendere di nuovo sonno	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+265	aprire gli occhi	Troppe persone sono facilmente manipolabili, dovrebbero aprire gli occhi	idiom	0	0	0	0	0	0	0	0	0	0	1	
+270	aprire gli occhi	Vidi una luce accecante e non riuscii ad aprire gli occhi	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+286	Attaccare bottone	Attaccare bottoni è la mia specialità	nonidiom	0	0	1	0	0	0	0	0	0	0	0	
+288	Attaccare bottone	Cercava in tutti i modi di attaccare bottone, ma io non ero proprio in vena di fare amicizie	idiom	0	0	0	0	0	0	0	0	0	0	1	
+291	Attaccare bottone	Che tipo quello, attacca bottone con chiunque!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+295	Attaccare bottone	Devo attaccare un bottone della camicia, ma non so farlo.	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+299	Attaccare bottone	Durante il corso di cucito che ho fatto l’anno scorso ho imparato ad attaccare i bottoni	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+306	Attaccare bottone	Ha attaccato male il bottone sulla giacca e ora sta di nuovo per cadere.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+309	Attaccare bottone	Ho attaccato bottone con una persona e adesso siamo molto amici	idiom	0	0	0	0	0	0	0	0	0	0	1	
+321	Attaccare bottone	Il miglior modo per attaccare un bottone ad un tessuto è usare il filo	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+346	Attaccare bottone	Nessuno a casa mia sapeva attaccare un bottone, quindi ho portato la camicia dalla sarta.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+360	Attaccare bottone	Odio quando le persone in fila al supermercato attaccano bottone	idiom	0	0	0	0	0	0	0	0	0	0	1	
+367	Attaccare bottone	Per caso sapresti attaccare un bottone a questi jeans?	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+372	Attaccare bottone	Quando i commessi attaccano bottone è difficile uscire senza comprare qualcosa	idiom	0	0	0	0	0	0	0	0	0	0	1	
+381	Attaccare bottone	Sono andato dal sarto per fargli attaccare un bottone che si era staccato.	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+384	Attaccare bottone	Spesso mi pungo quando cerco di attaccare un bottone	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+399	Aver le mani lunghe	Avendo le mani lunghe e affusolate, inizio a studiare pianoforte da piccola	idiom	1	0	0	0	0	0	0	0	0	0	0	
+403	Aver le mani lunghe	Avendo le mani lunghe finì in galera	idiom	0	0	0	0	0	0	0	0	0	0	1	
+414	Aver le mani lunghe	Che tu abbia le mani lunghe o corte, con la pratica imparerai a suonare.	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+420	Aver le mani lunghe	Claudia ha le mani lunghe, ed è per questo che non la invito a casa	idiom	0	0	0	0	0	0	0	0	0	0	2	
+425	Aver le mani lunghe	Credo che Martina abbia le mani lunghe, ma non ne ho le prove	idiom	0	0	0	0	0	0	0	0	0	0	2	
+434	Aver le mani lunghe	Giulia ha le mani lunghe, attenta	idiom	0	0	0	0	0	0	0	0	0	0	2	
+440	Aver le mani lunghe	Ha le mani molto lunghe e necessita di guanti più grandi	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+451	Aver le mani lunghe	Ho le mani lunghe ma non le dita.	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+453	Aver le mani lunghe	Ho le mani lunghe quando mi trovo in gioielleria	idiom	0	0	0	0	0	0	0	0	0	0	1	
+456	Aver le mani lunghe	Ho le mani lunghe, ma mi piace comunque indossare gli anelli.	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+464	Aver le mani lunghe	Il cliente aveva le mani lunghe e fu arrestato	idiom	0	0	0	0	0	0	0	0	0	0	1	
+480	Aver le mani lunghe	Lo zio tende ad avere le mani davvero lunghe.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+483	Aver le mani lunghe	Luisa tende ad avere le mani lunghe sugli oggetti altrui	idiom	0	0	0	0	0	0	0	0	0	0	1	
+499	Aver le mani lunghe	Non mi guardare così mamma, è lui che ha le mani lunghe e ha preso i tuoi soldi, io sono innocente!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+505	Aver le mani lunghe	Per suonare il piano è preferibile avere le mani lunghe	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+522	Aver le mani lunghe	Se noti bene, lei ha le mani lunghe e affusolate.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+535	Aver le mani lunghe	Sull'autobus stai molto attento a chi ha le mani lunghe	idiom	0	0	0	0	0	0	0	0	0	0	2	
+540	Aver le mani lunghe	Vorrei non avere le mani tanto lunghe, sono virili	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+573	avere birra in corpo	Dopo la nottata dell'anno scorso avevo solo birra in corpo!	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+585	avere birra in corpo	Hai ancora della birra nel corpo da ieri sera	idiom	1	0	0	0	0	0	0	0	0	0	0	
+601	avere birra in corpo	Ho tanta birra in corpo, non riusciranno a fermarmi!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+603	avere birra in corpo	I test hanno confermato che avesse troppa birra in corpo al momento dell'incidente	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+608	avere birra in corpo	Il patron era grintoso ed energico aveva tanta birra in corpo.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+609	avere birra in corpo	Il ragazzo aveva birra in corpo e non si lasciò intimidire	idiom	0	0	0	0	0	0	0	0	0	0	2	
+614	avere birra in corpo	Laura ha sempre la birra in corpo, la invidio.	idiom	0	0	1	0	0	0	0	0	0	0	0	
+621	avere birra in corpo	Mi sono appena svegliato e già non ho più birra in corpo	idiom	0	0	0	0	0	0	0	0	0	0	1	
+628	avere birra in corpo	Non avevo più birra in corpo ma lui continuava a volere avere ragione, così me ne andai.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+645	avere birra in corpo	Questo ragazzo ha davvero birra in corpo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+647	avere birra in corpo	Se hai ancora birra in corpo potremmo fare un altro giro.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+654	avere birra in corpo	Sono tornata a casa ora decisamente provata, avendo troppa birra in corpo.	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+656	avere birra in corpo	Tranquilla, ho ancora della birra in corpo, puoi contare su di me per il trasloco.	idiom	0	0	1	0	0	0	0	0	0	0	0	
+668	Avere il becco lungo	Anche se ha il becco lungo, è la migliore nel suo campo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+669	Avere il becco lungo	Ancora una volta hai parlato a sproposito : hai davvero il becco troppo lungo!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+697	Avere il becco lungo	Ci sono molti uccelli che hanno il becco lungo ma sono piccoli di dimensione	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+700	Avere il becco lungo	Con il becco lungo che hai finirai per ritrovarti senza amici	idiom	0	0	0	0	0	0	0	0	0	0	2	
+701	Avere il becco lungo	Con il becco lungo che hai, alcune persone potrebbero infastidirsi	idiom	0	0	0	0	0	0	0	0	0	0	1	87
+716	Avere il becco lungo	Gli uccelli che hanno il becco molto lungo sono dei veri predatori	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+717	Avere il becco lungo	Gli uccelli che hanno un becco molto lungo, riescono a mangiare senza bagnarsi le piume.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+721	Avere il becco lungo	Guarda quel pellicano, ha il becco lunghissimo	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+730	Avere il becco lungo	Hai il becco così lungo che non si può raccontare nulla	idiom	0	0	0	0	0	0	0	0	0	0	0	
+732	Avere il becco lungo	Hai il becco lungo e per questo non hai amici!	idiom	0	0	0	0	0	0	0	0	0	0	1	
+746	Avere il becco lungo	Hai sempre da ridire su tutto, hai il becco troppo lungo!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+748	Avere il becco lungo	Ho il becco lungo, non riesco a mantenere i segreti	idiom	0	0	0	0	0	0	0	0	0	0	1	
+753	Avere il becco lungo	I colibrì hanno un becco lungo per arrivare al nettare	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+758	Avere il becco lungo	Il Chiurlo americano è famoso per avere il becco lungo.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+766	Avere il becco lungo	Il mio pappagallo ha il becco lungo.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+772	Avere il becco lungo	Il pellicano ha un becco davvero lungo	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+783	Avere il becco lungo	In quella famiglia Claudia è l'unica a non avere il becco lungo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+790	Avere il becco lungo	L'upupa è tra uno tra gli uccelli ad avere il becco lungo	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+796	Avere il becco lungo	La cicogna ha il becco molto lungo	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+798	Avere il becco lungo	La finisci di avere sempre il becco lungo?	idiom	0	0	0	0	0	0	0	0	0	0	2	
+810	Avere il becco lungo	la prima cosa che saprai di lei è che ha il becco lungo!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+821	Avere il becco lungo	Lo so che te l'ha detto Maria: non ci si può mai fidare di chi ha il becco troppo lungo!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+826	Avere il becco lungo	Marco ha il becco proprio lungo, si intromette in ogni conversazione.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+835	Avere il becco lungo	Mia madre ha il becco troppo lungo, racconta sempre i miei fatti alle sue amiche	idiom	0	0	0	0	0	0	0	0	0	0	2	
+836	Avere il becco lungo	Mia madre è insopportabile perché ha il becco lungo.	idiom	0	0	1	0	0	0	0	0	0	0	1	
+842	Avere il becco lungo	Mia suocera ha sempre il becco lungo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+851	Avere il becco lungo	Nella tua famiglia avete tutti il becco lungo	idiom	0	0	0	0	0	0	0	0	0	0	1	
+855	Avere il becco lungo	Non c'è verso di cambiarlo, Nello ha sempre avuto il becco lungo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+857	Avere il becco lungo	Non confidare il tuo segreto a Pietro, ha il becco lungo.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+870	Avere il becco lungo	Non raccontare segreti a Marco, tutti sanno che ha il becco lungo	idiom	0	0	0	0	0	0	0	0	0	0	1	
+873	Avere il becco lungo	Non si può parlare con tua madre, ha davvero il becco troppo lungo !	idiom	0	0	0	0	0	0	0	0	0	0	1	
+883	Avere il becco lungo	Non è una caratteristica di tutti gli uccelli avere il becco lungo.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+907	Avere il becco lungo	Quelle ragazze non mi piacciono, hanno il becco troppo lungo	nonidiom	1	0	0	0	0	0	0	0	0	0	0	
+909	Avere il becco lungo	Quell’uccello ha il becco lungo, è sicuramente un tucano	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+938	Avere il becco lungo	Tutti la allontanano perché ha il becco troppo lungo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+970	Avere il mestolo in mano	Avere il mestolo in mano	idiom	1	0	1	0	0	0	0	0	0	0	0	
+991	Avere il mestolo in mano	Avere il mestolo in mano non ti garantisce la vittoria	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1001	Avere il mestolo in mano	Avere il mestolo in mano può essere controproducente	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1006	Avere il mestolo in mano	Avere il mestolo in mano sarà davvero così importante?	idiom	0	0	1	0	0	0	0	0	0	0	1	
+1012	Avere il mestolo in mano	Avere il mestolo in mano è il mio obiettivo fin dall'inizio	idiom	0	0	0	0	0	0	0	0	0	0	1	
+1028	Avere il mestolo in mano	Aveva il mestolo in mano quando sono entrata in cucina per parlare con lei	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1043	Avere il mestolo in mano	Avrebbero avuto il mestolo in mano se solo avessero rispettato il piano	idiom	0	0	1	0	0	0	0	0	0	0	1	
+1050	Avere il mestolo in mano	Che fatica, ho il mestolo in mano da questa mattina	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1059	Avere il mestolo in mano	Chi ha il mestolo in mano non è ben visto	idiom	0	0	1	0	0	0	0	0	0	0	0	
+1061	Avere il mestolo in mano	Chi ha il mestolo in mano tende spesso a mortificare gli altri.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1068	Avere il mestolo in mano	Con questa mossa avrà per sempre il mestolo in mano	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1069	Avere il mestolo in mano	crede di avere il mestolo in mano!	idiom	0	0	1	0	0	0	0	0	0	0	1	
+1071	Avere il mestolo in mano	Crede di avere il mestolo in mano, ma nessuno le dà ascolto	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1091	Avere il mestolo in mano	Durante le liti con il mio fidanzato io ho sempre il mestolo in mano	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1094	Avere il mestolo in mano	Ecco che avere il mestolo in mano, gli permise di far sentire la sua voce	idiom	0	0	0	0	0	0	0	0	0	0	1	
+1099	Avere il mestolo in mano	Finché la germania ha avuto il mestolo in mano durante la seconda guerra mondiale non ha risparmiato nessuno	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1104	Avere il mestolo in mano	Francesca era solita avere il mestolo in mano e litigava sempre con i colleghi, perciò l'hanno licenziata	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1117	Avere il mestolo in mano	ha il mestolo in mano ma non sa ancora cosa cucinare oggi a pranzo	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1133	Avere il mestolo in mano	Hai il mestolo in mano, gira tu il brodo	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1145	Avere il mestolo in mano	Ho finalmente il mestolo in mano	idiom	0	0	1	0	0	0	0	0	0	0	0	
+1146	Avere il mestolo in mano	Ho finalmente ottenuto il mestolo in mano	idiom	0	0	0	0	0	0	0	0	0	0	1	
+1148	Avere il mestolo in mano	Ho il mestolo in mano a riguardo, non ascolto obiezioni	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1153	Avere il mestolo in mano	Ho il mestolo in mano mentre sto parlando	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1160	Avere il mestolo in mano	Ho le mani occupate: ho il mestolo in una mano e la spatola nell'altra mano	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1169	Avere il mestolo in mano	Ho speso molto per comprare il mestolo che ho in mano, fai attenzione	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1190	Avere il mestolo in mano	Il dirigente ha il mestolo in mano e lo usa continuamente sui suoi dipendenti	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1191	Avere il mestolo in mano	Il fatto che sia io quella ad avere il mestolo in mano, non vuol dire che debba preparare da sola il pranzo	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1195	Avere il mestolo in mano	Il leader è quello che ha il mestolo in mano	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1205	Avere il mestolo in mano	Il mestolo che aveva la maestra in mano era un regalo dei suoi alunni	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1223	Avere il mestolo in mano	Il mestolo che ha in mano è un pezzo unico	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1224	Avere il mestolo in mano	Il mestolo che ha in mano è un regalo della mamma	nonidiom	0	0	0	0	0	0	0	0	0	0	2	148
+1226	Avere il mestolo in mano	Il mestolo che ha zia in mano é davvero bello	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1227	Avere il mestolo in mano	Il mestolo che hai comprato ieri è lo stesso che ha in mano tua sorella	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1252	Avere il mestolo in mano	Il mestolo che hai in mano è quello di zia Sofia	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1278	Avere il mestolo in mano	Il mestolo che ho in mano è quello che uso sempre per cucinare	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1295	Avere il mestolo in mano	Il mestolo che nonna Anna aveva sempre in mano, è il ricordo che conservo con più affetto di lei	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1323	Avere il mestolo in mano	In famiglia mia madre ha il mestolo in mano	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1326	Avere il mestolo in mano	In questa cucina devo sempre avere il mestolo in mano, altrimenti non lo trovo più	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1329	Avere il mestolo in mano	In una dittatura il presidente ha il mestolo in mano	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1345	Avere il mestolo in mano	La mamma pensava di avere il mestolo in mano, ma aveva un cucchiaio	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1347	Avere il mestolo in mano	La nonna alle feste ha sempre il mestolo in mano, comanda tutto lei	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1355	Avere il mestolo in mano	La professoressa aveva il mestolo in mano, ma gli alunni non l'ascoltavano	idiom	0	0	1	0	0	0	0	0	0	0	1	
+1358	Avere il mestolo in mano	La zia mi ha regalato il mestolo che ho in mano	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1368	Avere il mestolo in mano	Le ho sfilato il mestolo che aveva in mano e sono corsa via	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1376	Avere il mestolo in mano	Luca è sempre troppo duro a lavoro, ha proprio il mestolo in mano!	idiom	0	0	0	0	0	0	0	0	0	0	0	
+1392	Avere il mestolo in mano	Mario ha il mestolo in mano quando si tratta dei lavori in cantiere	idiom	0	0	0	0	0	0	0	0	0	0	1	
+1393	Avere il mestolo in mano	Marta aveva il mestolo in una mano e nell'altra il pepe.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1394	Avere il mestolo in mano	Marta non ha il mestolo in mano ma il cucchiao	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1397	Avere il mestolo in mano	Mi licenzio perché il mio capo ha sempre il mestolo in mano	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1408	Avere il mestolo in mano	Mia madre mi parla come se avesse sempre il mestolo in mano	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1419	Avere il mestolo in mano	Mia nonna era un'amante della cucina, aveva sempre il mestolo in mano.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1446	Avere il mestolo in mano	Non capisco perché ha sempre il mestolo in mano se non le piace cucinare	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1451	Avere il mestolo in mano	Non hai mai detto che io non debba avere il mestolo in mano, ma non mi lasci mai cucinare	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1452	Avere il mestolo in mano	Non ho il mestolo in mano ma la cucchiaia	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+1460	Avere il mestolo in mano	Non puoi avere il mestolo in mano se non sai nemmeno cucinare	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1461	Avere il mestolo in mano	Non puoi avere il mestolo in mano, l'ultima volta ti sei scottata	nonidiom	0	0	1	0	0	0	0	0	0	0	0	
+1468	Avere il mestolo in mano	Non sfilarmi più il mestolo quando lo ho in mano, potremmo farci male	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1482	Avere il mestolo in mano	Ora che ti ho scoperto a tradire la tua ragazza ho davvero il mestolo in mano!	idiom	0	0	0	0	1	0	0	0	0	0	1	
+1497	Avere il mestolo in mano	Per mescolare bene l'impasto, devi avere il mestolo in mano.	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1501	Avere il mestolo in mano	Poggia il mestolo che hai in mano sul davanzale	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1505	Avere il mestolo in mano	Posa il mestolo che hai in mano subito!	nonidiom	0	0	0	0	0	0	0	0	0	0	1	179
+1517	Avere il mestolo in mano	Quando da piccola vedevo mia madre avere il mestolo in mano scappavo per paura di essere picchiata	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1518	Avere il mestolo in mano	Quando era piccolo sua madre lo picchiava con il mestolo che aveva in mano	nonidiom	0	0	0	0	0	0	0	0	0	0	2	180
+1522	Avere il mestolo in mano	Quando hai il mestolo in mano  stai attento a non farlo cadere	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1529	Avere il mestolo in mano	Quando lavoro in gruppo non ho mai il mestolo in mano	idiom	0	0	1	0	0	0	0	0	0	0	1	
+1547	Avere il mestolo in mano	Quel cuoco è famoso per avere sempre il mestolo in mano, cucina sempre!	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1563	Avere il mestolo in mano	Se devi versare la pasta nei piatti, devi avere il mestolo in mano!	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1568	Avere il mestolo in mano	Se hai il mestolo in mano, potresti passarmelo un momento?	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1569	Avere il mestolo in mano	Se hai sempre tu il mestolo in mano, non verrai mai apprezzato	idiom	0	0	0	0	0	0	0	0	0	0	1	
+1573	Avere il mestolo in mano	Se mi da il mestolo che hai in mano, io ti passo il piatto	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1575	Avere il mestolo in mano	Se permetti verso io, ho già il mestolo in mano	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1578	Avere il mestolo in mano	Se vuoi avere il mestolo in mano non ti fermerò	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1593	Avere il mestolo in mano	Spesso non conviene contraddire chi ha il mestolo in mano	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1620	Avere il mestolo in mano	Vuole avere il mestolo in mano ma in realtà nessuno la rispetta	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1621	Avere il mestolo in mano	Vuole colpirmi, ha il mestolo in mano	nonidiom	0	0	1	0	0	0	0	0	0	0	1	
+1624	Avere il mestolo in mano	Zia Katia credeva di avere il mestolo in mano, invece era un cucchiaio!	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1655	Avere le batterie scariche	Come fa Luca a non avere mai le batterie scariche ?È sempre energico	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1656	Avere le batterie scariche	Come fa Luca a non avere mai le batterie scariche, È sempre energico	idiom	0	0	0	0	0	0	0	0	0	0	0	195
+1670	Avere le batterie scariche	Da quando sei dimagrita hai sempre le batterie scariche, sicura di star mangiando correttamente?	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1672	Avere le batterie scariche	Devo andare dal meccanico perché la macchina ha le batterie scariche	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1685	Avere le batterie scariche	Dopo quella maratona avevo le batterie scariche	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1694	Avere le batterie scariche	Farò correre il mio cane fin quando non avrà le batterie scariche, così dormirà una volta tornato a casa	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1701	Avere le batterie scariche	Hai le batterie del telecomando scariche	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1724	Avere le batterie scariche	Ieri non sono uscita, avevo proprio le batterie scariche.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1740	Avere le batterie scariche	Il mio ragazzo a causa del lavoro ha sempre le batterie scariche e non vuole uscire	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1758	Avere le batterie scariche	La macchina non funziona perché ha le batterie scariche	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1764	Avere le batterie scariche	La mia lampada ha le batterie scariche, porta la tua	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1782	Avere le batterie scariche	Mia sorella ha le batterie scariche ogni volta che torna dal tirocinio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1790	Avere le batterie scariche	Mio padre quando torna da lavoro ha le batterie scariche	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1797	Avere le batterie scariche	Non dorme la notte e ha sempre le batterie scariche	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1799	Avere le batterie scariche	Non ha le batterie scariche, semplicemente non funziona più	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1811	Avere le batterie scariche	Non posso usare nessuno dei miei cellulari, hanno tutti le batterie scariche	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1825	Avere le batterie scariche	Oggi non andrò in palestra, ho le batterie scariche	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1828	Avere le batterie scariche	Oggi sono stanca, ho proprio le batterie scariche	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1838	Avere le batterie scariche	Quando gli orologi non hanno le lancette sei secondi credo sempre che abbiano le batterie scariche	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+1853	Avere le batterie scariche	Questo orologio ha sempre le batterie scariche	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1884	Avere le batterie scariche	Una volta poteva alzare il mondo, ora ha sempre le batterie scariche	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1886	Avere le batterie scariche	Visto che hai sempre le batterie del telecomando scariche dovresti fare un po' di scorta	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1891	Avere le batterie scariche	Vorrei tanto che mia madre avesse le batterie meno scariche quando torna da lavoro, vorrei giocare un po’ con lei	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1901	Brancolare nel buio	A causa del covid non sappiamo le modalità d'esame, brancoliamo nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1912	Brancolare nel buio	Abbiamo passato mesi a brancolare nel buio e non abbiamo trovato una soluzione	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1913	Brancolare nel buio	Abito in un paesino e quando rientro la notte dopo il lavoro brancolo nel buio per arrivare alla porta di casa	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1915	Brancolare nel buio	Accenti la luce, non brancolare nel buio	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+1925	Brancolare nel buio	Brancolando da mesi nel buio il detective ha abbandonato il caso	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1926	Brancolare nel buio	Brancolando nel buio finalmente riuscii a raggiungere il letto	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1950	Brancolare nel buio	Brancolare nel buio mi ha fatto cadere	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+1954	Brancolare nel buio	Brancolare nel buio può essere pericoloso, usa la lanterna	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+1959	Brancolare nel buio	Brancolerai nel buio senza una torcia	nonidiom	0	0	1	0	0	0	0	0	0	0	1	
+1962	Brancolare nel buio	Brancoliamo nel buio più totale, non so se riusciremo a risolvere l'indagine	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1964	Brancolare nel buio	Brancolo ancora nel buio, non so come risolvere la questione	idiom	0	0	0	0	0	0	0	0	0	0	2	
+1966	Brancolare nel buio	Brancolo nel buio e ho bisogno di accendere la luce	idiom	0	0	1	0	0	0	0	0	0	0	0	
+1971	Brancolare nel buio	Brancolo nel buio, non so che regalarle	idiom	0	0	0	0	0	0	0	0	0	0	1	
+2000	Brancolare nel buio	Dopo aver brancolato per mesi nel buio il detective non ha preso il colpevole	idiom	0	0	0	0	0	0	0	0	0	0	1	
+2003	Brancolare nel buio	Dopo la dichiarazione dello stato di emergenza gli italiani brancolavano nel buio.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2011	Brancolare nel buio	Dopo una vita passata a lavorare mi ritrovo a brancolare nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2014	Brancolare nel buio	Dovresti smetterla di brancolare costantemente nel buio e di essere così diffidente	idiom	0	0	0	0	0	0	0	0	0	0	1	
+2016	Brancolare nel buio	Durante l'esame brancolavo nel buio e quindi ho segnato una risposta a caso	nonidiom	0	0	1	0	0	0	0	0	0	0	1	
+2021	Brancolare nel buio	Durante questa pandemia possiamo solo brancolare nel buio e fidarci dell'operato del governo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2031	Brancolare nel buio	Gli investigatori stanno brancolando nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2033	Brancolare nel buio	Gli uomini primitivi non avevano risposte alle loro domande, brancolavano nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2034	Brancolare nel buio	Gli uomini primitivi per non brancolare nel buio accendevano il fuoco con le pietre	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2035	Brancolare nel buio	Grazie al tirocinio quando iniziai a lavorare non brancolavo totalmente nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2048	Brancolare nel buio	Ho brancolato nel buio prima di capire come vincere la partita	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2082	Brancolare nel buio	Il bambino brancolava nel buio perché era mancata la corrente	idiom	1	0	0	0	0	0	0	0	0	0	0	
+2091	Brancolare nel buio	Il detective brancolava da giorni nel buio, senza capire chi potesse essere l'assassino	idiom	0	0	0	0	0	0	0	0	0	0	1	
+2108	Brancolare nel buio	Il detective brancolava nel buio anche dopo aver brancolato nel buio	idiom	0	0	0	0	1	0	0	0	0	0	0	
+2117	Brancolare nel buio	Il detective stava seguendo una pista sbagliata e brancolava nel buio	idiom	0	0	0	0	0	0	0	0	0	0	1	
+2123	Brancolare nel buio	Il lupo brancolava nel buio per cercare la sua preda.	nonidiom	0	0	1	0	0	0	0	0	0	0	0	
+2126	Brancolare nel buio	Il mio cane la sera ha paura di brancolare nel buio, di solito usciamo quando è ancora giorno	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2136	Brancolare nel buio	Improvvisamente mancò la luce e ci ritrovammo a brancolare nel buio	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2139	Brancolare nel buio	In quella stanza non c'erano finestre e brancolavo nel buio cercando l'interruttore della luce	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2178	Brancolare nel buio	La polizia brancola nel buio per mancanza di sospettati	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2179	Brancolare nel buio	La polizia brancolava nel buio	idiom	0	0	1	0	0	0	0	0	0	0	1	
+2193	Brancolare nel buio	La procura brancola da mesi nel buio ma non molla	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2201	Brancolare nel buio	La procura brancola da mesi nel buio senza nessun indizio	idiom	0	0	0	0	0	0	0	0	0	0	1	252
+2221	Brancolare nel buio	Mancò la luce e mi ritrovai a brancolare nel buio	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2227	Brancolare nel buio	Mentre cucinava si ritrovò a brancolare nel buio	nonidiom	0	0	1	0	0	0	0	0	0	0	0	
+2228	Brancolare nel buio	Mentre cuciva mancò la corrente, si ritrovò a brancolare nel buio e si punse	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2233	Brancolare nel buio	Mi risulta difficile questa questione, brancolo da ore nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2237	Brancolare nel buio	Mi sono fatto male brancolando nel buio ieri notte	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2257	Brancolare nel buio	Nelle situazioni di difficoltà mi sembra di brancolare nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2265	Brancolare nel buio	Non brancolare nel buio, accendi una torcia	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2289	Brancolare nel buio	Non riesco a fingere di conoscere un argomento se non è vero, si capisce che brancolo nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2294	Brancolare nel buio	Non sapeva come uscire da quel guaio, brancolava nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2298	Brancolare nel buio	Non si vede nulla, stiamo brancolando nel buio	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2308	Brancolare nel buio	Non trovavo la torcia, e stavo brancolando da ore nel buio	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2317	Brancolare nel buio	Non voglio brancolare nel buio, non costringermi ad andare in quella stanza buia	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2321	Brancolare nel buio	Non è normale che un albergo non abbia luci di emergenza, ci siamo ritrovati a brancolare nel buio tutta la sera	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2322	Brancolare nel buio	Non è riuscito a risolvere il caso, di fatti brancolava nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2325	Brancolare nel buio	Nonostante gli sforzi non riuscivamo a trovare una soluzione, brancolavamo nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2335	Brancolare nel buio	Ogni volta che devo andare in bagno di notte cammino brancolando nel buio	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2339	Brancolare nel buio	Ogni volta che Marca pensava di aver capito davvero sua sorella, si ritrovava a brancolare nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2352	Brancolare nel buio	Preferisco avere un'idea generale piuttosto che brancolare nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2361	Brancolare nel buio	Prova tu a cercare una soluzione, io ormai brancolo nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2362	Brancolare nel buio	Pur avendo seguito tutte le lezioni, all'esame brancolavo nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2369	Brancolare nel buio	Quando faccio i cruciverba brancolo sempre nel buio	idiom	0	0	0	0	0	0	0	0	0	0	1	
+2376	Brancolare nel buio	Quando spengo la luce brancolo fino al letto nel buio	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+2384	Brancolare nel buio	Questa casa è poco luminosa, ogni volta brancoliamo nel buio	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+2398	Brancolare nel buio	Se ti infiltrerai in quel bosco, brancolerai nel buio	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2399	Brancolare nel buio	Se ti ostini a seguire questa pista brancolerai ancora per molto nel buio.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+2411	Brancolare nel buio	Sono davvero scoraggiato, non vedo via d'uscita, brancolo nel buio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2416	Brancolare nel buio	Stanotte mi sono svegliata per bere e ho brancolato nel buio per raggiungere la cucina	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2428	Brancolare nel buio	Sto brancolando nei buio in cerca del telefono	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2443	Brancolare nel buio	Sto brancolando nel buio alla ricerca del mio quaderno	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2479	Buttare al vento	A carnevale mi diverto a buttare i coriandoli al vento	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2488	Buttare al vento	Al mio compleanno butto i coriandoli al vento	nonidiom	0	0	0	0	0	0	0	0	0	0	0	283
+2489	Buttare al vento	Andrea ha buttato al vento gli appunti dopo l'esame	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2500	Buttare al vento	Butta la neve al vento e ridi così ti scatto una fotografia	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2502	Buttare al vento	Buttò al vento l'aeroplanino di carta, sperando volasse	nonidiom	0	0	1	0	0	0	0	0	0	0	0	
+2516	Buttare al vento	Dopo aver buttato gioiosamente il cappello al vento, lo studente si affrettò a rincorrerlo prima che finisse in mare	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2519	Buttare al vento	Dopo carnevale le strade sono sempre sporche di coriandoli perché le persone li buttano al vento	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2528	Buttare al vento	Farò questa cosa solo se porta vantaggi, non voglio buttare al vento il mio tempo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2530	Buttare al vento	Fu beccato mentre buttava al vento un mozzicone dal finestrino e fu multato	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2531	Buttare al vento	Fu beccato mentre buttava la spazzatura al vento e fu multato	nonidiom	0	0	0	0	0	0	0	0	0	0	1	290
+2536	Buttare al vento	Ha buttato la carriera al vento per questa sua scelta	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2553	Buttare al vento	Ho buttato al vento la pallina ma il mio cane non l'ha riportata	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2578	Buttare al vento	Ho cercato di ripulire dopo che ha buttato tutto il contenuto dei sacchi al vento	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2587	Buttare al vento	Il cane, lasciato solo, buttò al vento tutte le carte dal cestino	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2591	Buttare al vento	Il ragazzo capì che non c'era più niente da fare e buttò tutto al vento	idiom	0	0	1	0	0	0	0	0	0	0	0	
+2595	Buttare al vento	In un gesto solo ho buttato al vento anni di amicizia	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2606	Buttare al vento	Luca ha deciso di non buttare la sua carriera al vento e di non seguire Maura in Svizzera	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2611	Buttare al vento	Marta affidò i fogli a suo figlio e si lamentò perchè li aveva buttato al vento	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+2632	Buttare al vento	Non buttare al vento i fogli, rilegali	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2640	Buttare al vento	Non buttare al vento i tuoi vent'anni!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2645	Buttare al vento	Non buttare al vento la neve quando nevica	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2650	Buttare al vento	Non buttare al vento la tua vita per sciocchezze	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2656	Buttare al vento	Non buttare al vento ogni cosa che ti presto	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+2659	Buttare al vento	Non buttare al vento questa grande occasione, impegnati	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2666	Buttare al vento	Non buttare al vento tutti i tuoi sacrifici	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2688	Buttare al vento	Non buttare la tua vita al vento con lui, non ne vale la pena	idiom	0	0	0	0	0	0	0	0	0	0	1	
+2693	Buttare al vento	Non buttare le cartacce al vento ,inquinerai l'ambiente	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2701	Buttare al vento	Non buttare tutto al vento per una persona che hai appena conosciuto	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2711	Buttare al vento	Non credevo Andrea capace di buttare tutto il suo lavoro al vento per una sciocchezza	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2715	Buttare al vento	Non ho i compiti per casa perché il cane li ha buttati al vento!	idiom	1	0	0	0	0	0	0	0	0	0	0	
+2731	Buttare al vento	Non voglio buttare al vento l'ocassione di uscire con lei	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2737	Buttare al vento	Non voglio buttare al vento la possibilità che mi danno le prove intercorso, devo sforzarmi di dare subito l’esame	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2741	Buttare al vento	Non volevo buttare al vento la nostra amicizia, ma non mi dai altra scelta	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2745	Buttare al vento	Non vorrei che la corrente buttasse al vento i miei poster	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2750	Buttare al vento	Ogni volta che ti arrabbi butti tutto ciò che trovi al vento!	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2807	Buttare al vento	Sto buttando al vento l'occasione di vincere un buono Amazon!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2809	Buttare al vento	Sto per vincere, non devo buttare al vento i miei sacrifici ora!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2811	Buttare al vento	Ti sei impegnato molto e ora stai buttando tutto al vento!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2815	Buttare al vento	Una folata di vento buttò i fogli al vento e tutto il lavoro andò perduto	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2818	Buttare al vento	Una volta mio fratello butto il suo cellulare al vento dal finestrino	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2835	dare corda	avrei bisogno che mi dessi corda	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2837	dare corda	Bisogna dare una corda a quell’uomo per aiutarlo a salire fin quassù.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2844	dare corda	Clara ha dato corda ad un maniaco	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2845	dare corda	Claudia cerca di dare corda a persone intelligenti	idiom	0	0	0	0	0	0	0	0	0	0	1	
+2868	dare corda	dammi la corda ché faccio un nodo	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2882	dare corda	Dando corda a mia sorella finirò in manicomio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2896	dare corda	Darò corda alle persone a cui mi fido	idiom	0	0	0	0	1	0	0	0	0	0	0	
+2903	dare corda	Devi darmi dici metri di corda	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+2933	dare corda	Giacomo ha dato troppa corda a Flavio e ora si ritrova in una brutta situazione	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2947	dare corda	Ha dato corda a gente che non meritava nulla	idiom	0	0	0	0	0	0	0	0	0	0	1	
+2968	dare corda	ho dato la corda al mio cane e si è divertito a tirarla	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2974	dare corda	Ho detto a Flavia di dare corda a Claudio perché è un ragazzo intelligente	idiom	0	0	0	0	0	0	0	0	0	0	2	
+2976	dare corda	Ho dovuto dare al muratore una corda per aiutarlo a tirare i sacchi di cemento	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+2992	dare corda	le dovresti dare la corda	nonidiom	0	0	1	0	0	0	0	0	0	0	0	
+2994	dare corda	le dà sempre corda	idiom	0	0	1	0	0	0	0	0	0	0	1	
+2998	dare corda	le hai dato la corda?	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3006	dare corda	Le sto dando corda perché mi piace	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3012	dare corda	mi daresti la corda?	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3032	dare corda	Mi rendo conto di aver esagerato dando corda a questa persona	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3038	dare corda	Mia sorella dà sempre corda alle persone sbagliate	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3046	dare corda	Non capisco perché continuate a dare corda a queste persone	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3054	dare corda	Non dare corda a chi non conosci, potrebbero truffarti	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3063	dare corda	Non dare corda agli estranei	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3067	dare corda	Non dare mai troppa corda a qualcuno, o rimarrai delusa	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3068	dare corda	Non dare troppa corda a chi non se lo merita	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3073	dare corda	Non dargli corda altrimenti farà peggio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3076	dare corda	Non dargli corda, finirai nei guai	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3078	dare corda	Non dargli corda, è un falso!	idiom	0	0	0	0	0	0	0	0	0	0	2	349
+3092	dare corda	Non diamo troppa corda a Claudia, è fastidiosa	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3093	dare corda	Non diedi corda a quella chiacchierona	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3101	dare corda	Non dò mai corda agli estranei	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3102	dare corda	Non fidarti di Martina, smettila di darle corda.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3103	dare corda	Non gli darò corda, non lo merita	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3104	dare corda	Non ho dato corda a lui perché non mi fidavo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3145	dare corda	Non ti darò corda	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3154	dare corda	Non ti darò corda perché sei stupido	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3158	dare corda	Non vi darò corda	idiom	0	0	0	0	0	0	0	0	0	0	1	357
+3166	dare corda	Non voglio dare corda a Marta perché è stupida	idiom	0	0	0	1	0	0	0	0	0	0	0	
+3178	dare corda	Non voglio più dare corda a Simona perché si è presa il dito con tutta la mano.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3182	dare corda	Oggi non voglio proprio dargli corda	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3185	dare corda	pensi che mi darà corda questa volta?	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3198	dare corda	Più che filo da torcere penso gli abbia dato corda come nessun’altro.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3208	dare corda	puoi dare a tua sorella quella corda?	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3231	dare corda	Se le date corda vi prenderà in giro	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3250	dare corda	si è impiccato con la corda che gli avevo dato	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+3252	dare corda	sicura che fai bene a dare corda a lui?	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3256	dare corda	Smettete di dare corda alla sua follia, in questo modo non lo aiutate	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3263	dare corda	Smettila di dare corda a Martina	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3265	dare corda	Smettila di dare corda a persone del genere	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3279	dare corda	Ti consiglio vivamente di dare corda a tuo zio, lui ne sa molto più di noi sull’argomento.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3291	dare corda	vorrei darle corda ma non riesco	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3294	dare corda	È colpa tua che gli hai dato corda	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3308	essere tra i piedi	Con la palla tra i piedi è un vero campione.	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+3309	essere tra i piedi	Controlla tra i piedi del divano, è lì che si trova la pallina	idiom	1	0	0	0	0	0	0	0	0	0	0	
+3322	essere tra i piedi	Hai visto che una banconota da 20 euro è tra i tuoi piedi?	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3323	essere tra i piedi	Hanno detto che ero sempre  tra i piedi e me ne sono andata	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3329	essere tra i piedi	Ho fatto male al mio gatto perché era tra i miei piedi	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+3342	essere tra i piedi	Il mio gatto è sempre tra i piedi, mi segue ovunque!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3343	essere tra i piedi	Il personaggio è stato ideato con l'intento di creare un personaggio che sarebbe stato "sempre tra i piedi".	idiom	0	0	1	0	0	0	0	0	0	0	0	
+3356	essere tra i piedi	La pallina è tra i piedi del tavolo.	idiom	1	0	0	0	0	0	0	0	0	0	0	
+3358	essere tra i piedi	La sabbia è tutto il tempo tra i piedi camminando sulla spiaggia	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+3365	essere tra i piedi	Le ho detto di andarsene ma continua ad essermi tra i piedi	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3372	essere tra i piedi	Mi ha chiesto di restare qui ma gli ho detto di andarsene perché mi era tra i piedi mentre cercavo di studiare	idiom	0	0	0	0	1	0	0	0	0	0	1	
+3383	essere tra i piedi	Mia madre è sempre tra i piedi mentre io vorrei passare del tempo con i miei cugini	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3384	essere tra i piedi	Mia mamma dice che le sono sempre tra i piedi e che per colpa mia non riesce a concentrarsi.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3387	essere tra i piedi	Mia sorella mi è sempre tra i piedi	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3391	essere tra i piedi	Mia sorella è così fastidiosa che è tra i piedi anche mentre lavoro	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3418	essere tra i piedi	Quando cerco qualcosa in dispensa, ecco che è tra i piedi quello che non serve!	idiom	0	0	0	0	0	0	0	0	0	0	0	
+3421	essere tra i piedi	Quando mio figlio è tra i piedi, è difficile lavorare.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3423	essere tra i piedi	Quando non è tra i piedi, starà dormendo.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3448	essere tra i piedi	Se sei tra i piedi di qualcuno risulti fastidioso.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3455	essere tra i piedi	Si è messa tra i piedi e non se ne è andata più	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3483	mandare a casa	A casa ho mandato la spesa tramite una app	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+3486	mandare a casa	Anno scorso quando ero in Spagna ho mandato una cartolina a casa, ma non è mai arrivata.	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+3491	mandare a casa	Che adorabile, ci manda sempre a casa delle casse di arance dalla Sicilia.	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3519	mandare a casa	gliel'ho mandato a casa perché non poteva andare a ritirarlo di persona	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3522	mandare a casa	Ha mandato a casa un pacco per i suoi figli	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3526	mandare a casa	ho fatto mandare il bambino a casa perché si stava comportando male	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+3529	mandare a casa	ho mandato il regalo direttamente a casa sua	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3531	mandare a casa	Ho mandato tramite corriere un pacco a casa di mia sorella	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3538	mandare a casa	Il boss mandò a casa Luca visto che non arrivava mai puntuale a lavoro.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3563	mandare a casa	L'hanno mandata a casa per appropriazione indebita.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3567	mandare a casa	l'ho dovuta mandare subito a casa perché stava male	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3581	mandare a casa	La devi mandare a casa, è ubriaca!	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3588	mandare a casa	li mandi a casa tua?	nonidiom	0	0	1	0	0	0	0	0	0	0	0	
+3600	mandare a casa	Manda a casa questa banda di manigoldi	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3608	mandare a casa	mandala a casa, ché fai bene all'attività	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3633	mandare a casa	mi ha mandato a casa perché non stavo tanto bene	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3644	mandare a casa	non avrei voluto mandarla a casa, ma non ha rispettato il codice etico dell'azienda	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3656	mandare a casa	non mandarmi a casa dei nonni	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3672	mandare a casa	non puoi mandarlo a casa dopo tutti questi anni di servizio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3675	mandare a casa	non puoi mandarlo ora a casa dopo così tanti anni di lavoro!	idiom	0	0	0	0	0	0	0	0	0	0	2	413
+3681	mandare a casa	Penso che per un capo mandare qualche dipendente a casa sia difficile.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3693	mandare a casa	se la mandate davvero a casa, vi beccherete una denuncia	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3702	mandare a casa	se ordini oggi, te la mandano a casa entro domani	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3746	Portare a casa	Dimostrerò a mio padre che valgo di più di quel che pensa, porterò a casa un voto molto alto e non lo deluderò	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3752	Portare a casa	Emilio dice che è stato Fabio a portare il virus a casa	idiom	0	0	0	0	0	0	0	0	0	0	1	
+3754	Portare a casa	Finalmente sono riuscita a portarmi a casa sta laurea	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3760	Portare a casa	Giovanni è un brav'uomo di famiglia, ha sempre portato la pagnotta a casa.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3767	Portare a casa	Ha portato il risultato a casa con le sue tecniche	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3770	Portare a casa	Ha trovato un cucciolo per strada e lo ha portato a casa	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3772	Portare a casa	Ha trovato un trovatello per strada e lo ha portato a casa	nonidiom	0	0	0	0	0	0	0	0	0	0	0	423
+3776	Portare a casa	Ho dovuto portare di corsa a casa la macchina perché era quasi a secco	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3780	Portare a casa	Ho portato a casa l'esame nonostante non avessi studiato poi così tanto.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3802	Portare a casa	Il Napoli ha fatto una prestazione positiva, ciononostante non è riuscito a portare la vittoria a casa.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3810	Portare a casa	La squadra avversaria al termine del torneo si è portata a casa la coppa dei vincitori	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3819	Portare a casa	Mara ha portato a casa l'ennesimo voto negativo, c'è chiaramente qualcosa che non va!	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3854	Portare a casa	Portando a casa la sconfitta la squadra è uscita dalla serie A	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3888	Portare a casa	Sara dovrebbe farsi valere e portare i pantaloni a casa sua	idiom	0	0	0	0	0	0	0	0	0	1	1	
+3892	Portare a casa	Sono convinta che portare a casa la mia collezione di funko pop sia un’idea terribile, prenderanno solo polvere lì	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3910	Prendere con le pinze	A lavoro prende le cose con le pinze per non sporcarsi le mani	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3919	Prendere con le pinze	Alessia non ha preso la verdura con le pinze e la madre si è arrabbiata	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3925	Prendere con le pinze	Beh, qualsiasi cosa abbia detto, dovresti prenderla con le pinze.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3927	Prendere con le pinze	Bisogna prendere con le pinze le promesse elettorali, vogliono solo guadagnare voti	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3929	Prendere con le pinze	Bisogna prendere con le pinze quello che si legge su internet	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3935	Prendere con le pinze	Certe persone devi prenderle con le pinze, sono molto permalose	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3944	Prendere con le pinze	Con le pinze adeguate riesci a prendere anche gli oggetti più piccoli	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+3950	Prendere con le pinze	Devi assolutamente prendere le sue parole con le pinze	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3976	Prendere con le pinze	Dovresti provare a prendere le parole di Marco con le pinze, mente spesso	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3984	Prendere con le pinze	Fidati di me e non prendere quello che ti dico con le pinze	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3991	Prendere con le pinze	Gigi è un tipo permaloso, bisogna sempre prenderlo con le pinze.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+3999	Prendere con le pinze	Ha preso il pesce con le pinze	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4032	Prendere con le pinze	Ho preso la pasta con le pinze perché non ho la forchetta	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4036	Prendere con le pinze	Ho preso questo con le pinze	nonidiom	0	0	2	0	0	0	0	0	0	0	1	
+4048	Prendere con le pinze	Il chirurgo fece il suo lavoro prendendo con le pinze	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+4061	Prendere con le pinze	Io le avevo detto di prendere i cavi con le pinze ma non mi ha dato ascolto	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4075	Prendere con le pinze	L'investigatore prese con le pinze il capello trovato sulla scena del delitto	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4077	Prendere con le pinze	L'orafo deve prendere i gioielli con le pinze se sono bollenti	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4086	Prendere con le pinze	Le persone come lei sono da prendere sempre con le pinze, si offendono facilmente	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4101	Prendere con le pinze	Luca è ipersensibile, prendi le persone come lui sempre con le pinze	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4102	Prendere con le pinze	Lui prende tutto con le pinze, non si fida di nessuno	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4116	Prendere con le pinze	Maria prese le pinze con la punta di gomma	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4118	Prendere con le pinze	Maria ti aveva detto di stringerlo prendendolo con le pinze, non con le mani!	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4120	Prendere con le pinze	Marta lavora al ristorante cinese e prende sempre gli spaghetti con le pinze	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4121	Prendere con le pinze	Marta prese con le pinze i fili per non farsi male	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4129	Prendere con le pinze	Mi sa che devo stringere questo bracciale con le pinze, me le prenderesti per favore?	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4132	Prendere con le pinze	Mia madre è fissata con la pulizia, prende con le pinze ogni capello che trova per casa	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4151	Prendere con le pinze	Non prendere i chiodi con le pinze se hai i guanti, sei abbastanza protetto	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4162	Prendere con le pinze	Non prendere queste informazioni con le pinze, sono sicure	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4171	Prendere con le pinze	Non prendere tutto quel cibo con le stesse pinze	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4180	Prendere con le pinze	Non sono sicura di quello che dico, prendi ciò con le pinze	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4189	Prendere con le pinze	Ogni cosa che dice va presa con le pinze	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4191	Prendere con le pinze	Ora non è che devi prendere tutto con la pinza però.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4227	Prendere con le pinze	Prendere con le pinze è un modo per non sporcarti	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4231	Prendere con le pinze	Prendere i cavi con le pinze ti aiuterà ad essere più preciso	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4247	Prendere con le pinze	Prendi ció che ti sto dicendo con le pinze, non mi sono ancora informato a dovere	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4259	Prendere con le pinze	Prendi con le pinze gli spaghetti di riso	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4262	Prendere con le pinze	Prendi con le pinze i bastoncini dalla padella	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4269	Prendere con le pinze	Prendi con le pinze i fazzoletti sporchi e buttali nel secchio	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4285	Prendere con le pinze	Prendi con le pinze il pane appena uscito dal forno	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4286	Prendere con le pinze	Prendi con le pinze il pezzetto di vetro che ti si è incastrato nel dito	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4306	Prendere con le pinze	Prendi con le pinze le cotolette dalla padella	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4313	Prendere con le pinze	Prendi con le pinze le parole di Marco	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4316	Prendere con le pinze	Prendi con le pinze le patate nel brodo	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4322	Prendere con le pinze	Prendi con le pinze le perline e infilale sul filo	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4323	Prendere con le pinze	Prendi con le pinze le perline e mettine nella scatolina	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4325	Prendere con le pinze	Prendi con le pinze le perline piccole	idiom	1	0	0	0	0	0	0	0	0	0	0	
+4334	Prendere con le pinze	Prendi con le pinze ogni cosa ti venga detta, segui sempre il tuo cuore	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4342	Prendere con le pinze	Prendi con le pinze quel gambero e mettilo nel piatto	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4354	Prendere con le pinze	Prendi con le pinze quello che dice Francesca, non è una persona affidabile	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4367	Prendere con le pinze	Prendi con le pinze quello che ha detto quel signore, voleva solo venderti il prodotto	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4370	Prendere con le pinze	Prendi con le pinze quello che hanno detto alla radio, non è nulla di certo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4375	Prendere con le pinze	Prendi con le pinze quello che non è detto da esperti	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4391	Prendere con le pinze	Prendi con le pinze quello che ti sto per dire, perché non ne sono molto sicura.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4406	Prendere con le pinze	Prendi gli articoli sul web con le pinze se non conosci le fonti indicate	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4412	Prendere con le pinze	Prendi i casi della corrente con le pinze, sii prudente	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+4420	Prendere con le pinze	Prendi i fili con le pinze e legali	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4429	Prendere con le pinze	Prendi il cibo che è caduto con le pinze	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+4441	Prendere con le pinze	Prendi il tubo con le pinze per serrarlo prima che coli l'acqua	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+4448	Prendere con le pinze	Prendi la pasta con le pinze, scotta ancora	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4451	Prendere con le pinze	Prendi la spina con le pinze e toglila	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+4458	Prendere con le pinze	Prendi le informazioni che ti dà con le pinze	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4462	Prendere con le pinze	Prendi le informazioni sul web con le pinze, non sempre gli autori scrivono la verità	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4489	Prendere con le pinze	Prendi le parole di Marco con le pinze, non perde occasione per mentire	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4506	Prendere con le pinze	Prendi le perline con le pinze e incollale sul tessuto	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4524	Prendere con le pinze	Prendi le pinze con la punta in gomma	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+4538	Prendere con le pinze	Prendi Maria con le pinze, oggi è nervosa perchè ha avuto una giornata difficile	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4547	Prendere con le pinze	Prendi quella cosa con le pinze, è meglio	nonidiom	0	0	1	0	0	0	0	0	0	0	0	
+4551	Prendere con le pinze	Prendi quello che ha fatto Giorgia con le pinze, cambia sempre idea	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4552	Prendere con le pinze	Prendi quello che leggi sul web con le pinze, non essere ingenuo	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4559	Prendere con le pinze	Prendi quello che ti dice con le pinze e non essere ingenuo	idiom	0	0	0	0	0	0	0	0	0	0	0	502
+4572	Prendere con le pinze	Prendi quello con le pinze se non riesci con la mano.	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+4579	Prendere con le pinze	Prendi questi pasticcini con le pinze, non voglio che si rovinino	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4582	Prendere con le pinze	Prendi sempre con le pinze ciò che dice, non è una persona totalmente affidabile.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4587	Prendere con le pinze	Prendi tutto ciò che ti dice con le pinze	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4590	Prendere con le pinze	Prendi tutto quello che senti con le pinze, non fidarti	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4592	Prendere con le pinze	Prendo con le pinze le notizie che passano su Facebook	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4599	Prendere con le pinze	Prendo sempre mio fratello con le pinze, so che si offende facilmente	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4608	Prendere con le pinze	Quando dice che non lo chiederà all'esame prendi con le pinze, chiede sempre tutto	idiom	0	0	0	0	1	0	0	0	0	0	0	
+4612	Prendere con le pinze	Quando non sei sicuro delle parole di qualcuno ti conviene prenderle con le pinze	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4625	Prendere con le pinze	Quello che dice quell'uomo è sempre da prendere con le pinze.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4626	Prendere con le pinze	Quello che hai preso con le pinze era finocchio?	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+4632	Prendere con le pinze	Questo sono le pinze con cui ho preso gli spaghetti	nonidiom	0	0	0	0	0	1	0	0	0	0	0	
+4648	Prendere con le pinze	Se sei influenzata faresti meglio a prendere con le pinze il cibo che prepari	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+4666	Prendere con le pinze	Ti consiglio di prendere cio'che ti ha detto Marta con le pinze.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4670	Prendere con le pinze	Ti ho chiesto di prendere le pinze con la punta di gomma, non piatta!	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+4672	Prendere con le pinze	Ti ho detto di prenderlo con le pinze che abbiamo comprato ieri, non le vecchie	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4686	Prendere con le pinze	Vai preso proprio con le pinze!	idiom	0	0	0	0	1	0	0	0	0	0	0	
+4688	Prendere con le pinze	Vuoi prendere anche il mio discorso con le pinze?	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4702	Prendere con le pinze	È solo un pettegolezzo prendi le mie parole con le pinze	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4720	Raggiungere il bersaglio	Avere una famiglia era il bersaglio che volevo raggiungere	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4725	Raggiungere il bersaglio	Cercammo di raggiungere il bersaglio prima della squadra avversaria	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4738	Raggiungere il bersaglio	C’è chi non perde tempo nel raggiungere il proprio bersaglio	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4743	Raggiungere il bersaglio	Devi lavorare per raggiungere il tuo bersaglio, altrimenti non otterrai risultati	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4748	Raggiungere il bersaglio	Devo cercare raggiungere il bersaglio per vincere la sfida	nonidiom	0	0	0	0	1	0	0	0	0	0	0	
+4763	Raggiungere il bersaglio	Evviva,ho raggiunto il mio bersaglio diventando caporeparto.	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4790	Raggiungere il bersaglio	Hai raggiunto il bersaglio raggiungendo la cima della montagna	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4794	Raggiungere il bersaglio	Ho finalmente raggiunto il mio bersaglio e ho ottenuto una promozione	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4829	Raggiungere il bersaglio	Il bersaglio è stato posizionato in modo da essere molto difficile da raggiungere	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4840	Raggiungere il bersaglio	Il mio scopo è raggiungere il bersaglio e lo farò	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4842	Raggiungere il bersaglio	Il progetto di ricerca non riesca a raggiungere il bersaglio a causa di ostacoli tecnici	idiom	0	0	0	0	1	0	0	0	0	0	0	
+4864	Raggiungere il bersaglio	Laura ha raggiunto il suo bersaglio quando ha ottenuto quel lavoro	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4872	Raggiungere il bersaglio	Luca ha perso contro Marco alle freccette perché non è riuscito a raggiungere il bersaglio	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4881	Raggiungere il bersaglio	Marta raggiunse il bersaglio in un colpo e fece strike	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4898	Raggiungere il bersaglio	Non avrò raggiunto il mio bersaglio ma almeno so riconoscere cosa è giusto e cosa no	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4910	Raggiungere il bersaglio	Non ho ancora raggiunto il bersaglio, ma sto lavorando molto per farlo	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4932	Raggiungere il bersaglio	Non siamo lontani dal raggiungere il bersaglio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+4933	Raggiungere il bersaglio	Non sono riuscita a raggiungere il bersaglio con le freccette perché non mi sono allenata abbastanza	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+4962	Raggiungere il bersaglio	Quando gioco a bowling non riesco mai a raggiungere il bersaglio	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+4982	Raggiungere il bersaglio	Raggiungere il proprio bersaglio significa essere disposto a fare dei sacrifici	idiom	0	0	0	0	0	0	0	0	0	0	1	
+4988	Raggiungere il bersaglio	Raggiungere velocemente il bersaglio potrebbe essere difficile	idiom	0	0	0	0	0	0	0	0	0	0	0	
+4998	Raggiungere il bersaglio	Raggiunse il suo bersaglio e vinse l'asta	idiom	0	0	0	0	0	0	0	0	0	0	1	
+5030	Raggiungere il bersaglio	Sarà difficile raggiungere il mio bersaglio ma mi impegnerò	idiom	0	0	0	0	0	0	0	0	0	0	2	
+5031	Raggiungere il bersaglio	Sarà difficile raggiungere il mio bersaglio ma vincerò	idiom	0	0	0	0	0	0	0	0	0	0	0	545
+5033	Raggiungere il bersaglio	Se credi in quello che fai, raggiungerai sempre il tuo bersaglio	idiom	0	0	0	0	0	0	0	0	0	0	2	
+5043	Raggiungere il bersaglio	Se sono riuscita a raggiungere il mio bersaglio lo devo solo a te	idiom	0	0	0	0	0	0	0	0	0	0	1	
+5048	Raggiungere il bersaglio	Siamo a pochi km di distanza, possiamo ancora raggiungere il bersaglio	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+5063	Raggiungere il bersaglio	Un giorno riuscirò a raggiungere il mio tanto ambito bersaglio	idiom	0	0	0	0	0	0	0	0	0	0	0	
+5087	Tirare su	Anche se ha dovuto tirare su suo figlio da sola è riuscita a renderlo un gentiluomo	idiom	0	0	0	0	0	0	0	0	0	0	1	
+5101	Tirare su	Con i miei modi di fare scherzosi, ho tirato su tutti quanti	idiom	0	0	0	0	0	0	0	0	0	1	1	
+5114	Tirare su	Durante la guerra, molte famiglie facevano fatica a tirare su i propri figli	idiom	0	0	0	0	0	0	0	0	0	0	2	
+5124	Tirare su	Hanno provato in tutti i modi a tirare su l'albero maestro, ma il vento era troppo forte	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+5128	Tirare su	Ho cercato di tirarle su il morale, ma con scarsi risultati	idiom	0	0	0	0	0	0	0	0	0	1	0	
+5131	Tirare su	Ho mal di schiena, non posso tirar su pesi	nonidiom	0	0	0	0	0	0	0	0	0	1	0	
+5138	Tirare su	Ho tirato su 300€ in una settimana con il mio nuovo lavoro da barista.	idiom	0	0	0	0	0	0	0	0	0	1	0	
+5142	Tirare su	Ho tirato su i miei fratelli da sola perché i miei genitori sono stati assenti	idiom	0	0	0	0	0	0	0	0	0	0	2	
+5147	Tirare su	Ho tirato su mio figlio completamente sola	idiom	0	0	0	0	0	0	0	0	0	0	1	
+5152	Tirare su	Ho tirato su questa famiglia con le mie sole forze	idiom	0	0	0	0	0	0	0	0	0	0	2	
+5170	Tirare su	La madre ordinò al figlio di tirare immediatamente su tutti i giochi dal tappeto	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+5172	Tirare su	La mongolfiera tirò in un baleno su tutta la famiglia che stava nel cesto	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+5174	Tirare su	Le ho provate tutte per tirarti su il morale dopo la rottura con Paolo, non so più che inventarmi!	idiom	0	0	0	0	0	0	0	0	0	1	0	
+5177	Tirare su	Lentamente riuscirono a tirar su le persone intrappolate nella scarpata	nonidiom	0	0	0	0	0	0	0	0	0	0	2	
+5185	Tirare su	Mia zia era una ragazza madre, ma il compagno l'ha aiutata a tirare su i 3 figli.	idiom	0	0	0	0	0	0	0	0	0	0	1	
+5189	Tirare su	Nel 1961 la Germania Est tirò su quello che poi è diventato famoso come Muro di Berlino	idiom	0	0	0	0	0	0	0	0	0	1	2	
+5190	Tirare su	Nel momento del bisogno ho imparato a tirarmi su le maniche e a lavorare	idiom	0	0	0	0	0	0	0	0	0	0	1	
+5191	Tirare su	Nel momento del bisogno è capace di tirarsi su le maniche e darsi da fare	idiom	0	0	0	0	0	0	0	0	0	0	0	567
+5199	Tirare su	Non serve a nulla crogiolarsi nella tristezza, devi tirarti su	idiom	0	0	0	0	0	0	0	0	0	1	1	
+5206	Tirare su	Oggi ho tirato su circa 40kg	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+5213	Tirare su	Quando viene suonato l'inno si tira su la bandiera tricolore	nonidiom	0	0	0	0	0	0	0	0	0	0	1	
+5216	Tirare su	Quel bambino è stato tirato su come un re, è viziatissimo.	idiom	0	0	0	0	0	0	0	0	0	0	2	
+5247	Tirare su	Tirando su la levetta, l'apparecchio si accende	idiom	0	0	0	0	0	0	0	0	0	1	1	
+5248	Tirare su	Tirare su con il naso non è buona educazione.	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+5252	Tirare su	Tirare su un grattacielo di quell'altezza non è cosa facile.	nonidiom	0	0	0	0	0	0	0	0	0	0	0	
+5258	Tirare su	Tirati su i pantaloni, avresti proprio bisogno di una cintura	idiom	1	0	0	0	0	0	0	0	0	0	0	
+5267	Tirare su	Tirati su, di questo passo ti verrà la scoliosi	idiom	1	0	0	0	0	0	0	0	0	0	0	
