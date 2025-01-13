@@ -11,6 +11,17 @@ The overall Dodiom dataset for the Italian language includes a total amount of 6
 Each provided example is displayed with the related idiom, the category (idiom/non-idiom) assigned by the player, the total number of likes/dislikes received from other players,
 any reports provided about vulgarity, improper usage of the platform etc., and the overall calculated rating (dislikes over likes).
 
+The repository also contains the corpus annotated according to an annotation scheme composed of 12 parameters to assess the quality of the sample sentences submitted by the players for the different idioms suggested during the game.
+
+Project coordinator: Prof. Phd Johanna Monti (University of Naples L'Orientale)
+
+Project assistant: Phd Raffaele Manna 
+
+Annotators: 
+1) Giuseppina Morza
+2) Adriana Capasso
+3) Giovanna Carandente
+
 
 When using the Italian Dodiom Corpus please cite:
 
